@@ -1,0 +1,18 @@
+body{
+    background-color: #f836001a;
+}
+
+
+.btn{
+    display: grid;
+    grid-template-columns: repeat(2,130px);
+    gap: 20px;
+
+}
+.btn > button{
+    border-radius: 15px;
+    height: 30px;
+    color: white;
+    font-weight: 800;
+    border: none;
+}

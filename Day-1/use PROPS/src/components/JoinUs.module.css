@@ -1,0 +1,25 @@
+.join{
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+.download{
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+    }
+
+  .settings{
+    background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+  }  
+.home{
+    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+.help{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.contact{
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+.login{
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.search{
+    background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+}
