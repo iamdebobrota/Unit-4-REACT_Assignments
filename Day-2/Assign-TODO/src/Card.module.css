@@ -1,0 +1,20 @@
+.left_Content img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 1px solid red; */
+    width: 40%;
+    height: 205px;
+    /* margin: auto; */
+    border-radius: 20px;
+    background-color: bisque;
+    margin-top: 1%;
+}
+.quali{
+    color: red;
+}

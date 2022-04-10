@@ -1,0 +1,26 @@
+
+.btnall{
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 3px;
+    margin: 10px;
+    cursor: pointer;
+}
+.btnall:active{
+    background-color: coral;
+}
+.incBtn{
+    background-color: blue;
+    width: 130px;   
+}
+.decBtn{
+    background-color: rgb(255, 0, 102);
+       width: 130px;
+}
+.Double{
+    background-color:green;
+       width: 110px;
+}
