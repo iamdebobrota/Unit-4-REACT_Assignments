@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "imgurl": "https://media.istockphoto.com/photos/malaysian-cuisine-maggi-goreng-mamak-picture-id490453539?k=20&m=490453539&s=612x612&w=0&h=A4HAdAEBtkMC4wOHC65j3GZ5lW7TaLpo4_BEuR9l_E4=",
+      "title": "maggi",
+      "category": "breakfast",
+      "price": "12",
+      "rating": "4.5",
+      "discount": "30",
+      "description": "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 1
+    },
+    {
+      "imgurl": "https://b.zmtcdn.com/data/dish_photos/0c4/ca1efc10306309780dbf037efa9500c4.jpg?output-format=webp",
+      "title": "allu pakoida",
+      "category": "evening",
+      "price": "20",
+      "rating": "4.5",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 2
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/corn-on-the-cob-kernels-peeled-isolated-on-white-background-picture-id841408966?k=20&m=841408966&s=612x612&w=0&h=oEyckJFhGN_FoUy9N5Zz99_QRsyrkBQCNYudbLoKIDo=",
+      "title": "corn",
+      "category": "breakfast",
+      "price": "10",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 3
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/spicy-chick-peas-curry-or-chola-masala-or-chana-masala-or-chole-or-picture-id669495548?k=20&m=669495548&s=612x612&w=0&h=3E2DBmxHbPc0VVCD6ofUeYroEGXBLopMQYXkVxDGdZc=",
+      "title": "chola",
+      "category": "lunch",
+      "price": "200",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 4
+    },
+    {
+      "imgurl": "https://b.zmtcdn.com/data/dish_photos/c86/989cc8ad94e63d7141bcbefd2a32cc86.jpg",
+      "title": "pizza",
+      "category": "evening",
+      "price": "800",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 5
+    },
+    {
+      "imgurl": "https://b.zmtcdn.com/data/dish_photos/ed0/8ce2f2ed2fe82f153dc3fb1a51edaed0.jpg?output-format=webp",
+      "title": "Non-Veg Thali",
+      "category": "dinner",
+      "price": "180",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 6
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/indian-sweets-in-a-plate-includes-gulab-jamun-rasgulla-kaju-katli-picture-id1054228718?k=20&m=1054228718&s=612x612&w=0&h=OFcioOdcbacinr2F7M0hULoAr3egWnU_BIt5XLmznf0=",
+      "title": "Sweets",
+      "category": "dinner",
+      "price": "150",
+      "rating": "4.5",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 7
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/rajma-rice-with-onion-salad-on-table-kidney-beans-indian-food-picture-id1153503774?k=20&m=1153503774&s=612x612&w=0&h=pjN92c__bnmOP_2NIs00VzUvKofNGBIU9vE1VaieFrQ=",
+      "title": "Rajma Rice",
+      "category": "lunch",
+      "price": "200",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 8
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/samosa-sold-on-the-roadside-during-sakurashinmachi-nebuta-matsuri-picture-id1037390870?k=20&m=1037390870&s=612x612&w=0&h=I_GRiKy2Lo7kbX4O0SbxbAvPCEHK-PQxrPuDVA_wdHI=",
+      "title": "samaso",
+      "category": "evening",
+      "price": "10",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 9
+    },
+    {
+      "imgurl": "https://b.zmtcdn.com/data/dish_photos/c72/803d5fe3e96c7f9877f8d62be00abc72.jpg?output-format=webp",
+      "title": "Chicken Rice",
+      "category": "evening",
+      "price": "400",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 10
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/chicken-thighs-picture-id531469196?k=20&m=531469196&s=612x612&w=0&h=u44FZ4JO6yQqKg3nEy3OMiJzKLaC232EDRduIUdXFis=",
+      "title": "Chicken Tanduri",
+      "category": "lunch",
+      "price": "450",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 11
+    },
+    {
+      "imgurl": "https://media.istockphoto.com/photos/paneer-butter-masala-or-cheese-cottage-curry-popular-indian-menu-in-picture-id669312136?k=20&m=669312136&s=612x612&w=0&h=drT5xbcRH35tZMwfyA2AV5t6Z0k6H2kTZzCbI8z30Ik=",
+      "title": "Paneer Butter Masala",
+      "category": "lunch",
+      "price": "420",
+      "rating": "4.5",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 12
+    },
+    {
+      "imgurl": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Chicken-Curry-Recipe-500x375.jpg",
+      "title": "Paneer Curry",
+      "category": "lunch",
+      "price": "350",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 13
+    },
+    {
+      "imgurl": "https://foodiewish.com/wp-content/uploads/2020/05/Bengali-Sweets-Bengali-Rasgulla.jpg",
+      "title": "Bengali Rasugolla",
+      "category": "Sweets",
+      "price": "200",
+      "discount": "25",
+      "rating": "5.0",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hl5p6iojfxxaov0ppn9j",
+      "title": "Laddu",
+      "category": "Sweets",
+      "price": "200",
+      "discount": "25",
+      "rating": "5.0",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://fryingpanadventures.com/wp-content/uploads/2020/10/image-137-scaled-e1604152201367.jpeg",
+      "title": "Chiness",
+      "category": "Fast-Food",
+      "price": "200",
+      "discount": "25",
+      "rating": "4.0",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://media.cntraveler.com/photos/5f63b787978ff785b25015e7/master/w_4202,h_2796,c_limit/Schezwan%20Prawns-2A4D9JC.jpg",
+      "title": "Schezwan prawns",
+      "category": "lunch",
+      "price": "200",
+      "rating": "4.0",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://hemamagesh.com/wp-content/uploads/2021/04/featured-2.jpg",
+      "title": "Gobi Manchurian",
+      "category": "lunch",
+      "price": "250",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://media-cdn.tripadvisor.com/media/photo-s/19/81/a2/70/very-authentic-and-really.jpg",
+      "title": "Manchester Chinese",
+      "category": "lunch",
+      "price": "250",
+      "rating": "4.5",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/102898-sndhrcwqoh-1539346639.jpg",
+      "title": "Japanese-Peruvian",
+      "category": "lunch",
+      "price": "250",
+      "discount": "25",
+      "rating": "4.5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "imgurl": "https://i0.wp.com/swadishta.de/wp-content/uploads/2021/01/Idle.jpg?fit=1200%2C800&ssl=1",
+      "title": "Edlee",
+      "category": "lunch",
+      "price": "30",
+      "rating": "4.5",
+      "discount": "25",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "id": 14
+    },
+    {
+      "title": "Pasta",
+      "rating": "4",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEY-GoXPdMQJhyYAsXmy1pIgFNkgaQaMeoW04wJjyrzg36Dyw0RsJ7Tzx1U6LjZHYDKY&usqp=CAU",
+      "price": "5",
+      "discount": "25",
+      "category": "lunch",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in .",
+      "id": 38
+    },
+    {
+      "imgurl": "https://tnnenglish.com/wp-content/uploads/2021/05/fast-food-768x430.jpg",
+      "rating": "4.7",
+      "title": "Burger",
+      "discount": "25",
+      "price": "250",
+      "category": "Dinner",
+      "description": "PESHAWAR: The term fast food is used for items which are either precooked or can be cooked in a lesser time than ordinary food. Life today is quick and way of life changes has made individuals dependent on food and eatables that can be promptly prepared. Handled food sources like noodles, pizza, white bread, diet soft drink and so forth fall in the category of fast food.",
+      "id": 39
+    },
+    {
+      "imgurl": "https://tnnenglish.com/wp-content/uploads/2021/05/fast-food-768x430.jpg",
+      "rating": "4.7",
+      "title": "Burger",
+      "discount": "25",
+      "price": "250",
+      "category": "South indian, chiness, bengali, fast food",
+      "description": "PESHAWAR: The term fast food is used for items which are either precooked or can be cooked in a lesser time than ordinary food. Life today is quick and way of life changes has made individuals dependent on food and eatables that can be promptly prepared. Handled food sources like noodles, pizza, white bread, diet soft drink and so forth fall in the category of fast food.",
+      "id": 40
+    },
+    {
+      "imgurl": "https://img.etimg.com/thumb/msid-89686013,width-650,imgsize-942748,,resizemode-4,quality-100/untitled-design-2022-02-19t162656-425.jpg",
+      "rating": "3",
+      "title": "as",
+      "price": "23",
+      "category": "homemade food",
+      "discount": "34",
+      "description": "asas",
+      "id": 41
+    },
+    {
+      "imgurl": "https://images.pexels.com/photos/2619970/pexels-photo-2619970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": "4.5",
+      "title": "Pizza",
+      "price": "250",
+      "category": "fast food",
+      "discount": "25",
+      "description": "Dominos pizza",
+      "id": 42
+    }
+  ]
+}

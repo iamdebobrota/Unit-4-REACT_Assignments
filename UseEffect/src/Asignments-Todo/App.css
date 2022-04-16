@@ -1,0 +1,9 @@
+.App{
+ margin: auto;
+ padding: 0;
+ box-sizing: border-box;
+ text-align: center;
+}
+body{
+    /* background-color: rgba(203, 154, 164, 0.436); */
+}

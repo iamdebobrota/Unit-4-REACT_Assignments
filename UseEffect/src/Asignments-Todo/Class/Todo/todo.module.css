@@ -1,0 +1,12 @@
+.lineThrough{
+    text-decoration: line-through;
+}
+h3{
+color: blue;
+}
+.flex{
+    display:grid;
+    grid-template-columns: 1fr 100px;
+    border: 1px solid red;
+    
+}
