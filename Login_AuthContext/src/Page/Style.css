@@ -1,0 +1,44 @@
+h1{
+    background-color: red;
+    color: white;
+    padding: 5px;
+ 
+    top: 0;
+}
+.login-form{
+    width: 300px;
+    text-align: center;
+background-color: teal;
+margin: auto;
+}
+.form{
+    /* border: 1px solid red; */
+    width: 350px;
+    margin: auto;
+    padding: 40px;
+    display: grid;
+    justify-content: space-around;
+}
+label{
+    margin: 20px;
+}
+input{
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid red;
+    margin-top: 20px;
+}
+button{
+    font-size: 24px;
+    width: 200px;
+    margin: auto;
+    background-color: green;
+    border: none;
+    margin-top: 40px;
+    border-radius: 6px;
+    color: rgb(242, 248, 255);
+}
+img{
+    height: 400px;
+    margin-top: 2%;
+}
