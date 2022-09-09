@@ -1,0 +1,26 @@
+-useRef
+-Event
+-Forms
+-input
+-file
+-date
+-gender
+
+
+
+=> Updating varuiable, without trigaring 
+re-render and state updt should not loose variable
+
+A:- create this variable using a hook: useRef, this will prevent when 
+this variable e-render
+
+-what are events?
+A: Enevts is how HTMl intract ith JS
+
+-in case React?
+syntatic Base Events -> get event from VDOm
+
+-. where does 
+React-> DOM->Event-> VDOM->syntaticEvents->  use in React
+
+

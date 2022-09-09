@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    margin-top: 20px;
+}
+.form{
+    display: grid;
+    justify-content: center;
+    
+}
+.submit{
+  
+    width: 150px;
+    margin: auto;
+    margin-top: 20px;
+}
